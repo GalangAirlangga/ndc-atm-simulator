@@ -1,0 +1,7 @@
+ndcatm
+ndcatm.exe
+*.exe
+*.pyc
+__pycache__/
+.pytest_cache/
+.env
